@@ -4,6 +4,8 @@ Wait for PC-98 batch file
 NEC PC-98シリーズで
 DosのバッチファイルにWaitを入れたくて作りました。
 
+LSI C-86 試食版でコンパイルしています。
+
 WTIME time[s]で指定秒(時間は目安)待ちます。
 
 "q"または"Q"で途中終了します。
