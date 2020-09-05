@@ -10,3 +10,6 @@ WTIME time[s]で指定秒(時間は目安)待ちます。
 キーボードからの入力にint 21hを使用しています。
 
 カーソルの消去、表示にPC-98のint 18hのBiosコールを使用しています。
+
+FreeDOS(98) + Neko Project 21/W  
+FreeDOS(98) + PC-9801RX21(実機)で試しています。
